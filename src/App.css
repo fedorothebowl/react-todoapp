@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka&family=Open+Sans:wght@400;700&display=swap");
+:root {
+  --c-blue: rgb(38, 38, 38);
+}
+
+body {
+  @apply bg-c-blue;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+}
+
+.font-fredoka {
+  font-family: "Fredoka", serif;
+}
